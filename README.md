@@ -1,2 +1,2 @@
-# cmd-chess
+# cli-chess
 A command line multiplayer chess game. 
